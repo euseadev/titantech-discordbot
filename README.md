@@ -19,7 +19,8 @@
 - /kick
    -  Komut çalıştırıldığında gönderilen mesaj
   ![](https://cdn.discordapp.com/attachments/1131692946916392962/1236061491392811048/image.png?ex=6636a378&is=663551f8&hm=87d44e272fcca30b2ccf79c7b6915ae065a3e99bd15c130d8c9dc1ae9981c984&)
-     - Komut çalıştırıldığında log kanalına gönderilen mesaj![](https://cdn.discordapp.com/attachments/1131692946916392962/1236061522057367633/image.png?ex=6636a37f&is=663551ff&hm=1c567168f5036a8da355d37f0dc1c18c3960e4a04584f804d153e2b5a3b6304d&)
+     - Komut çalıştırıldığında log kanalına gönderilen mesaj
+     - ![](https://cdn.discordapp.com/attachments/1131692946916392962/1236061522057367633/image.png?ex=6636a37f&is=663551ff&hm=1c567168f5036a8da355d37f0dc1c18c3960e4a04584f804d153e2b5a3b6304d&)
      
 - /mute 
    - Komut kullanımı
