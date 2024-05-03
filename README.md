@@ -25,7 +25,7 @@
 ### /mute 
 - Komut Kullanımı:
   ![mute](https://cdn.discordapp.com/attachments/1131692946916392962/1236061941185908746/image.png?ex=6636a3e3&is=66355263&hm=ba99fc585eb2890469c7eba1d9aa9e5329eb356daa2a93ab55b27bc277f2e546&)
-- Komut Başarıyla Çalıştırıldığında Gönderilen Mesaj:
+- **Komut Başarıyla Çalıştırıldığında Gönderilen Mesaj:**
   ![mutemessage](https://media.discordapp.net/attachments/1131692946916392962/1236062304219697303/image.png?ex=6636a43a&is=663552ba&hm=7664d8c63a0cbdbcc7d233b52272b4bba272a1213ff8267f22adc5a45e6e0b0a&=&format=webp&quality=lossless)
 - Log Kanalına Gönderilen Mesaj:
   ![mutelog](https://cdn.discordapp.com/attachments/1131692946916392962/1236062304609505481/image.png?ex=6636a43a&is=663552ba&hm=34eb4bc38c6147075d12e95a16a44a11ef33c6585fec8e35d22589819a7ba22a&)
