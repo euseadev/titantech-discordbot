@@ -12,6 +12,7 @@
 ## Komutlar Hakkında Bilgilendirme
 ### /ban 
 - Komut Çalıştırıldığında Gönderilen Mesaj
+  
   ![ban](https://cdn.discordapp.com/attachments/1131692946916392962/1236060057377046588/ban.png?ex=6636a222&is=663550a2&hm=c35d9c52930e8a8b4a91e18899344a9101fcf54b77a71c28b7ca83060a6f6e35&)
 - Komut Çalıştırıldığında Log Kanalına Gönderilen Mesaj
   ![banlog](https://cdn.discordapp.com/attachments/1131692946916392962/1236060057150427237/banlog.png?ex=6636a222&is=663550a2&hm=27eba017d50484262a084e8fd219c86abd946a478f4a4838da440cd614423d3d&)
