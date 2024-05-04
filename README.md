@@ -76,7 +76,7 @@
 ## Sistemler
 - Gelişmiş öneri sitemi
   
-  (![oneri](https://github.com/euseadev/titantech-discordbot/assets/143559072/3b0f7f9a-8bfd-425a-a118-8206f3edf1fa)
+  ![oneri](https://github.com/euseadev/titantech-discordbot/assets/143559072/3b0f7f9a-8bfd-425a-a118-8206f3edf1fa)
   ![image](https://github.com/euseadev/titantech-discordbot/assets/143559072/7c3266ac-e014-4b46-8645-57b90487486f)
 
   Eğer reddedilirse
