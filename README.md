@@ -91,33 +91,33 @@
 
 - Log sistemi
   - Transaction log (İşlem logları)
-    Açıklama: Çalıştırılan komutların loglarını tutar
+  - Açıklama: Çalıştırılan komutların loglarını tutar
   
     ![image](https://github.com/euseadev/titantech-discordbot/assets/143559072/191eefa2-0c2a-4219-91a6-d2f70d68eeab)
     
   - Küfür & Link log
-    Açıklama: Eğer bir üye küfür ederse / link gönderirse üyeye gereken cezayı uygular ve belirtilen kanala log gönderir.
+  - Açıklama: Eğer bir üye küfür ederse / link gönderirse üyeye gereken cezayı uygular ve belirtilen kanala log gönderir.
 
     ![image](https://github.com/euseadev/titantech-discordbot/assets/143559072/a83d2b60-ef96-4f05-a65f-49d5e3abc4b3)
   - Mute & Ban & Kick Log
-    Açıklama: Atılan mute & ban ve kicklerin logunu belirtilen kanala gönderir
+  - Açıklama: Atılan mute & ban ve kicklerin logunu belirtilen kanala gönderir
     
     ![image](https://github.com/euseadev/titantech-discordbot/assets/143559072/cdd010b7-ce11-4d2e-b95a-794843c57ddf)
     ![image](https://github.com/euseadev/titantech-discordbot/assets/143559072/474777ba-a8d9-44a2-9a23-bffe22b7abc9)
     ![image](https://github.com/euseadev/titantech-discordbot/assets/143559072/cf523475-2377-4040-92d1-54b89a79e3a0)
 
   - Unauthorized access log
-    Açıklama: API a yanlış şifreyle giriş yapılmaya çalışırsa belirtilen kanala log gönderir
+  - Açıklama: API a yanlış şifreyle giriş yapılmaya çalışırsa belirtilen kanala log gönderir
     
     ![image](https://github.com/euseadev/titantech-discordbot/assets/143559072/4c3004ca-ceab-4a9f-b872-fba7325690cb)
 
   - API log
-    Açıklama: API ile bir değişiklik yapıldığında belirtilen kanala log gönderir
+  - Açıklama: API ile bir değişiklik yapıldığında belirtilen kanala log gönderir
 
     ![image](https://github.com/euseadev/titantech-discordbot/assets/143559072/5a4337e5-d5f9-4c1f-b597-99cd05547381)
 
   - Mesaj silme & düzenleme log
-    Açıklama: Bir kullanıcının gönderdiği mesaj silindiğinde / düzenlendiğinde belirtilen kanala log gönderir.
+  - Açıklama: Bir kullanıcının gönderdiği mesaj silindiğinde / düzenlendiğinde belirtilen kanala log gönderir.
 
     ![image](https://github.com/euseadev/titantech-discordbot/assets/143559072/9099f4b0-b821-49ee-beb0-23eabae9d17b)
     ![image](https://github.com/euseadev/titantech-discordbot/assets/143559072/4bed8e53-ecc4-4cb9-a525-9ec53bbc5352)
