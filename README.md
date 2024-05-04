@@ -1,4 +1,4 @@
-![image](https://github.com/euseadev/titantech-discordbot/assets/143559072/3abcef4c-be4e-4559-b6c7-71aab394caa9)# Titantech Minecraft Discord Botu
+# Titantech Minecraft Discord Botu
 
 ## Komutlar
 - `/ban`: Üye yasaklamaya yarar. (Cooldown: 30 saniye)
