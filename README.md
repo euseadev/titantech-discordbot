@@ -98,8 +98,8 @@
   - Küfür & Link log
   - Açıklama: Eğer bir üye küfür ederse / link gönderirse üyeye gereken cezayı uygular ve belirtilen kanala log gönderir.
 
-    ![image](https://github.com/euseadev/titantech-discordbot/assets/143559072/5ea1692f-a41c-4695-bd2b-d9aa7b985dc3)
-
+    ![image](https://github.com/euseadev/titantech-discordbot/assets/143559072/2ed96c15-c8bc-4eb4-84a0-0253bce6a93e)
+    
   - Mute & Ban & Kick Log
   - Açıklama: Atılan mute & ban ve kicklerin logunu belirtilen kanala gönderir
     
