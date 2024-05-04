@@ -1,4 +1,4 @@
-# Titantech Minecraft Discord Botu
+![image](https://github.com/euseadev/titantech-discordbot/assets/143559072/3abcef4c-be4e-4559-b6c7-71aab394caa9)# Titantech Minecraft Discord Botu
 
 ## Komutlar
 - `/ban`: Üye yasaklamaya yarar. (Cooldown: 30 saniye)
@@ -46,12 +46,9 @@
 ### /reset-api-configuration
 - Komut Aydınlatma Metni:
   Bu pakette yarı otomatik sunucu durum sistemi bulunmaktadır. Diğer Discord botlarındaki gibi hazır API kullanarak sunucu durumunu almak yerine kendisi bir API oluşturarak, sunucu ile bot arasında bağlantı kurmayı sağlar. Örneğin, sunucunuzun bakımda olduğunu hayal edelim. Sunucu bakımda olduğunda diğer API'lerde (örneğin, api.mcsrvstat.us gibi) sunucunuz aktif görünecektir ve bu yüzden sunucunuz bakımda olsa bile, sunucu durum odasında sunucunuzun bakımda olduğu görünmeyecektir. İşte bu sorunu önlemek için böyle bir API sistemi hazırladık. API sistemini şu şekilde kullanabilirsiniz:
-  
-- Sunucuyu aktif olarak göstermek için: `http://vdsip:apiport/api/v1/serverstatus?status=aktif&auth=api-authorization-key` 
-- Sunucuyu bakımda olarak göstermek için: `http://vdsip:apiport/api/v1/serverstatus?status=bakımda&auth=api-authorization-key`
+  Sunucuyu aktif olarak göstermek için: `http://vdsip:apiport/api/v1/serverstatus?status=aktif&auth=api-authorization-key` 
+  Sunucuyu bakımda olarak göstermek için: `http://vdsip:apiport/api/v1/serverstatus?status=bakımda&auth=api-authorization-key`
 
-- Komut Başarıyla Çalıştırıldığında Gönderilen Mesaj:
-  [Mesaj Buraya Gelecek]
 - Sunucu Durumu API Aracılığıyla Değiştirildiği Zaman Gönderilen Loglar
   - Yetkisiz Erişim (Yanlış Şifre):
 
@@ -76,7 +73,56 @@
   
   ![vipinfo2](https://cdn.discordapp.com/attachments/1131692946916392962/1236086164159725631/image.png?ex=6636ba72&is=663568f2&hm=878cc4309067c479eafa3ee78150f60fde66d30fad7e74b7caa8c7da875d6f03&)
 
-## 
+## Sistemler
+- Gelişmiş öneri sitemi
+  
+  (![oneri](https://github.com/euseadev/titantech-discordbot/assets/143559072/3b0f7f9a-8bfd-425a-a118-8206f3edf1fa)
+  ![image](https://github.com/euseadev/titantech-discordbot/assets/143559072/7c3266ac-e014-4b46-8645-57b90487486f)
+
+  Eğer reddedilirse
+
+  ![image](https://github.com/euseadev/titantech-discordbot/assets/143559072/53ca23b1-0ec4-4800-891e-082ecd2b6fc3)
+  ![image](https://github.com/euseadev/titantech-discordbot/assets/143559072/c55e5553-d8b4-439c-8423-ad5426c86095)
+  ![image](https://github.com/euseadev/titantech-discordbot/assets/143559072/e72e169b-19f7-43fd-878b-75c6a714d811)
+
+- Seviye sistemi
+  
+  ![image](https://github.com/euseadev/titantech-discordbot/assets/143559072/62d2357d-c137-4ca2-aceb-f2bbcbe46eab)
+
+- Log sistemi
+  - Transaction log (İşlem logları)
+    Açıklama: Çalıştırılan komutların loglarını tutar
+  
+    ![image](https://github.com/euseadev/titantech-discordbot/assets/143559072/191eefa2-0c2a-4219-91a6-d2f70d68eeab)
+    
+  - Küfür & Link log
+    Açıklama: Eğer bir üye küfür ederse / link gönderirse üyeye gereken cezayı uygular ve belirtilen kanala log gönderir.
+
+    ![image](https://github.com/euseadev/titantech-discordbot/assets/143559072/a83d2b60-ef96-4f05-a65f-49d5e3abc4b3)
+  - Mute & Ban & Kick Log
+    Açıklama: Atılan mute & ban ve kicklerin logunu belirtilen kanala gönderir
+    
+    ![image](https://github.com/euseadev/titantech-discordbot/assets/143559072/cdd010b7-ce11-4d2e-b95a-794843c57ddf)
+    ![image](https://github.com/euseadev/titantech-discordbot/assets/143559072/474777ba-a8d9-44a2-9a23-bffe22b7abc9)
+    ![image](https://github.com/euseadev/titantech-discordbot/assets/143559072/cf523475-2377-4040-92d1-54b89a79e3a0)
+
+  - Unauthorized access log
+    Açıklama: API a yanlış şifreyle giriş yapılmaya çalışırsa belirtilen kanala log gönderir
+    
+    ![image](https://github.com/euseadev/titantech-discordbot/assets/143559072/4c3004ca-ceab-4a9f-b872-fba7325690cb)
+
+  - API log
+    Açıklama: API ile bir değişiklik yapıldığında belirtilen kanala log gönderir
+
+    ![image](https://github.com/euseadev/titantech-discordbot/assets/143559072/5a4337e5-d5f9-4c1f-b597-99cd05547381)
+
+  - Mesaj silme & düzenleme log
+    Açıklama: Bir kullanıcının gönderdiği mesaj silindiğinde / düzenlendiğinde belirtilen kanala log gönderir.
+
+    ![image](https://github.com/euseadev/titantech-discordbot/assets/143559072/9099f4b0-b821-49ee-beb0-23eabae9d17b)
+    ![image](https://github.com/euseadev/titantech-discordbot/assets/143559072/4bed8e53-ecc4-4cb9-a525-9ec53bbc5352)
+
+
 
 # Fiyatlandırma
 
