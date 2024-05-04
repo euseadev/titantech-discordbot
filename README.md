@@ -46,8 +46,9 @@
 ### /reset-api-configuration
 - Komut Aydınlatma Metni:
   Bu pakette yarı otomatik sunucu durum sistemi bulunmaktadır. Diğer Discord botlarındaki gibi hazır API kullanarak sunucu durumunu almak yerine kendisi bir API oluşturarak, sunucu ile bot arasında bağlantı kurmayı sağlar. Örneğin, sunucunuzun bakımda olduğunu hayal edelim. Sunucu bakımda olduğunda diğer API'lerde (örneğin, api.mcsrvstat.us gibi) sunucunuz aktif görünecektir ve bu yüzden sunucunuz bakımda olsa bile, sunucu durum odasında sunucunuzun bakımda olduğu görünmeyecektir. İşte bu sorunu önlemek için böyle bir API sistemi hazırladık. API sistemini şu şekilde kullanabilirsiniz:
-  Sunucuyu aktif olarak göstermek için: `http://vdsip:apiport/api/v1/serverstatus?status=aktif&auth=api-authorization-key` 
-  Sunucuyu bakımda olarak göstermek için: `http://vdsip:apiport/api/v1/serverstatus?status=bakımda&auth=api-authorization-key`
+  
+- Sunucuyu aktif olarak göstermek için: `http://vdsip:apiport/api/v1/serverstatus?status=aktif&auth=api-authorization-key` 
+- Sunucuyu bakımda olarak göstermek için: `http://vdsip:apiport/api/v1/serverstatus?status=bakımda&auth=api-authorization-key`
 
 - Komut Başarıyla Çalıştırıldığında Gönderilen Mesaj:
   [Mesaj Buraya Gelecek]
@@ -74,6 +75,8 @@
 - Bir Butona Tıklayınca
   
   ![vipinfo2](https://cdn.discordapp.com/attachments/1131692946916392962/1236086164159725631/image.png?ex=6636ba72&is=663568f2&hm=878cc4309067c479eafa3ee78150f60fde66d30fad7e74b7caa8c7da875d6f03&)
+
+## 
 
 # Fiyatlandırma
 
