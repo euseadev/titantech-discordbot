@@ -127,7 +127,7 @@
 # Fiyatlandırma
 
 - Botun Satış Fiyatı: 400 ₺
-- Editleme Hizmeti: 400 ₺
+- Editleme Hizmeti: 200 ₺
 - 7/24 Sınırsız Destek: 250 ₺
 
 Satın Alım: [discord.gg/titantech](https://discord.gg/titantech)
